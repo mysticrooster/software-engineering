@@ -8,3 +8,5 @@ build
 .settings
 bin
 *.class
+
+.idea
